@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeNav"
+        android:icon="@drawable/home_icon"
+        android:title="@string/main"/>
+    <item
+        android:id="@+id/payings"
+        android:icon="@drawable/document_icon"
+        android:title="@string/pays"/>
+
+    <item
+        android:id="@+id/services"
+        android:icon="@drawable/light_icon"
+        android:title="@string/services"/>
+
+    <item
+        android:id="@+id/analysis"
+        android:icon="@drawable/analysis_icon"
+        android:title="@string/analys_view"/>
+
+    <item
+        android:id="@+id/others"
+        android:icon="@drawable/etc_icon"
+        android:title="@string/more"/>
+</menu>
